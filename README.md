@@ -20,7 +20,7 @@ Requirements
 Demo Setup
 ----------
 
-1. Download the most recent release ZIP archive ("Zybo-Z7-20-Pcam-5C-2018.2-*.zip") from the repo's [releases page](https://github.com/Digilent/Zybo-Z7-20-pcam-5c/releases).
+1. Download the most recent release ZIP archive ("Zybo-Z7-10-Pcam-5C-2020.1-*.zip") from the repo's [releases page](https://github.com/Digilent/Zybo-Z7-10-pcam-5c/releases).
 2. Extract the downloaded ZIP.
 3. Open the XPR project file, found at \<archive extracted location\>/vivado_proj/Zybo-Z7-10-pcam-5c.xpr, included in the extracted release archive in Vivado 2020.1.
 4. In the toolbar at the top of the Vivado window, select **File -> Export -> Export Hardware**. Select **\<Local to Project\>** as the Exported Location and make sure that the **Include bitstream** box is checked, then click **OK**.
